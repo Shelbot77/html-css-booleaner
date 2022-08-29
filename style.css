@@ -18,7 +18,7 @@ h1{
     font-size: 50px;
 }
 
-span{
+#blue{
     color: #0099ff;
 }
 
@@ -26,6 +26,16 @@ span{
     color: grey;
     position:relative;
     bottom: 40px;
+    font-weight: 600;
     
     
+}
+
+.highlited{
+    background-color: yellow;
+}
+
+.lorem1{
+    font-size: 20px;
+    font-weight: 600;
 }
