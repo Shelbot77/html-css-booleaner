@@ -8,8 +8,8 @@ header{
     background-color: #3366ff;
     background-image: url("./img/pattern.png");
     background-size: contain;
+    position:relative;
     height: 100px;
-    position:relative
     
     
 }
@@ -41,11 +41,16 @@ h1{
     font-weight: 600;
 }
 
-th{
-    font-size: 20px;
-    background-color: #3366ff;
+thead{
+    background: #0099ff ;
     color: white;
 }
 
+.padding{
+    padding-left: 300px;
+}
+
+
+    
 
 
