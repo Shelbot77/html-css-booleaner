@@ -42,10 +42,16 @@ h1{
     
 }
 
+.lightblue{
+    background-color: #b3ccff;
+}
+
+
 
 thead{
-    background: #0099ff ;
+     
     color: white;
+    background-color: #0099ff;
 }
 
 .padding{
